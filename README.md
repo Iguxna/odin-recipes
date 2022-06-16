@@ -1,2 +1,5 @@
 # odin-recipes
-odin recipes html project
+
+Basic HTML project 
+
+Gonna look like garbage 
